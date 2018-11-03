@@ -1,4 +1,4 @@
-sup = 1000  #上限
+sup = 2000  #上限
 
 def factorial(n):
 
